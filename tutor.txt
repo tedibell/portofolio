@@ -1,0 +1,53 @@
+
+
+1.download bootstrap di web bootstrap
+
+https://getbootstrap.com/docs/4.4/getting-started/introduction/
+
+2.buka semua filenya menggunakan text editor
+
+3.buat file index.html ---> kemudian taro di dalam file bootsrap
+
+4.search starter di web bootstrapnya --> cari starter --> copy --> taro di index.html
+
+5.search navbar di web bootstrapnya --> cari nav --> copy --> hapus <h1> di index.html --> paste yang tadi
+
+6.cara merubah warna --> search color --> cari warna -->  bg-primary -->
+	taro di dalam nav class--><nav class="navbar navbar-expand-lg navbar-light bg-primary">
+
+7.cara merubah warna text --> navbar-light --> taro di belakang class -->
+ <a class="nav-link text-light" href="#">About</a>
+ 
+8.search jumbotron di web bootstrapnya --> cari jumbotron --> copy --> taro di index.html --> dibawah navbar
+
+
+
+
+freepik
+
+.row>.col-lg-9+.col-md-3 --> terus Enter/Tab  -->  hasilnya
+		<div class="row">
+		<div class="col-lg-9">test</div>
+		<div class="com-md-3">test</div>
+		</div>
+
+9.search di web bootstrapnya --> cari cards --> copy --> taro di index.html -->
+
+
+lorem--> tab --> untuk manggil lorem ipsum
+
+=======================================================
+
+bikin file baru --> portofolio.html -->
+
+
+html:5 --> buat html
+
+copy --> css di atas dan bawah dari web sebelumnya
+
+diblock dulu --> ctrl + D --> esc
+
+utilities
+
+ctrl + space --> munculkan pilihan
+
